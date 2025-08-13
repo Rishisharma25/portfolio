@@ -1,0 +1,416 @@
+{
+  "personal": {
+    "name": "Rishi Sharma",
+    "firstName": "Rishi",
+    "lastName": "Sharma",
+    "title": "Python & C/C++ Developer",
+    "tagline": "I build clean, efficient, and user-friendly software solutions.",
+    "location": "Jabalpur, Madhya Pradesh",
+    "availability": "Available for opportunities",
+    "profileImage": "assets/profile.jpg"
+  },
+  
+  "about": {
+    "description": "I am pursuing B.Tech from Gyan Ganga Institute of Science and Technology, Jabalpur (3rd year). Skilled in Python, C, C++, HTML, and passionate about solving problems through technology.",
+    "education": {
+      "degree": "B.Tech Computer Science",
+      "institution": "Gyan Ganga Institute of Science and Technology",
+      "location": "Jabalpur",
+      "year": "3rd Year",
+      "status": "Pursuing"
+    },
+    "stats": {
+      "yearsLearning": 3,
+      "projectsBuilt": 15,
+      "technologies": 6,
+      "dedication": 100
+    }
+  },
+  
+  "skills": {
+    "technical": ["Python", "C", "C++", "HTML", "CSS", "JavaScript"],
+    "categories": {
+      "programming": ["Python", "C", "C++"],
+      "web": ["HTML", "CSS", "JavaScript"],
+      "databases": ["SQLite"],
+      "frameworks": ["Tkinter"],
+      "tools": ["Git", "VS Code"]
+    }
+  },
+  
+  "roles": [
+    "Python Developer",
+    "C/C++ Programmer",
+    "Web Developer",
+    "Problem Solver",
+    "Tech Enthusiast",
+    "Software Engineer"
+  ],
+  
+  "projects": [
+    {
+      "id": 1,
+      "title": "Library Management System",
+      "description": "A comprehensive system to manage book inventory and lending records, built using Python with a user-friendly interface and efficient database management.",
+      "longDescription": "This project features complete CRUD operations for books and users, automated fine calculations, search and filter functionality, and data persistence using SQLite database.",
+      "image": "assets/project1.jpg",
+      "technologies": ["Python", "SQLite", "Tkinter"],
+      "category": "Desktop Application",
+      "status": "Completed",
+      "featured": true,
+      "links": {
+        "github": "https://github.com/yourusername/library-management",
+        "demo": "#",
+        "live": "#"
+      },
+      "features": [
+        "Book inventory management",
+        "User registration and management", 
+        "Borrowing and return tracking",
+        "Automated fine calculation",
+        "Search and filter functionality"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Website",
+      "description": "This personal portfolio showcasing my skills and projects with modern design, responsive layout, and interactive animations.",
+      "longDescription": "A fully responsive portfolio website built with modern web technologies, featuring smooth animations, dark/light theme toggle, and optimized performance.",
+      "image": "assets/project2.jpg",
+      "technologies": ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+      "category": "Web Development",
+      "status": "Completed",
+      "featured": true,
+      "links": {
+        "github": "https://github.com/yourusername/portfolio",
+        "demo": "#",
+        "live": "#"
+      },
+      "features": [
+        "Responsive design",
+        "Modern animations",
+        "Theme toggle",
+        "Interactive elements",
+        "Performance optimized"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Student Grade Calculator",
+      "description": "A Python application to calculate and manage student grades with statistical analysis and reporting features.",
+      "longDescription": "Built with Python, this application helps teachers and students track academic performance with grade calculations, GPA computation, and detailed reports.",
+      "image": "assets/project3.jpg",
+      "technologies": ["Python", "Pandas", "Matplotlib"],
+      "category": "Educational Tool",
+      "status": "In Progress",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/yourusername/grade-calculator",
+        "demo": "#",
+        "live": "#"
+      },
+      "features": [
+        "Grade calculation",
+        "GPA computation",
+        "Statistical analysis",
+        "Report generation",
+        "Data visualization"
+      ]
+    }
+  ],
+  
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "position": "Project Manager, TechCorp",
+      "rating": 5,
+      "comment": "Rishi delivered exceptional work on our Python automation project. His attention to detail and problem-solving skills are remarkable. Highly recommended!",
+      "date": "January 15, 2024",
+      "avatar": {
+        "color": "bg-indigo-500",
+        "initial": "S"
+      },
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "position": "Startup Founder",
+      "rating": 5,
+      "comment": "Working with Rishi was a fantastic experience. He built a robust web application for our startup and delivered ahead of schedule. Great communication throughout!",
+      "date": "January 10, 2024",
+      "avatar": {
+        "color": "bg-green-500",
+        "initial": "M"
+      },
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Emily Rodriguez",
+      "position": "Small Business Owner",
+      "rating": 4,
+      "comment": "Rishi helped streamline our inventory management with a custom solution. Professional, reliable, and always available for questions.",
+      "date": "December 28, 2023",
+      "avatar": {
+        "color": "bg-purple-500",
+        "initial": "E"
+      },
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "David Park",
+      "position": "Data Analyst",
+      "rating": 5,
+      "comment": "Outstanding Python skills and clean code structure. Rishi built exactly what we needed for our data processing pipeline.",
+      "date": "December 20, 2023",
+      "avatar": {
+        "color": "bg-blue-500",
+        "initial": "D"
+      },
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Lisa Thompson",
+      "position": "Marketing Director",
+      "rating": 5,
+      "comment": "The website Rishi created for our agency is beautiful and fast. He understood our vision perfectly and brought it to life.",
+      "date": "December 15, 2023",
+      "avatar": {
+        "color": "bg-pink-500",
+        "initial": "L"
+      },
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "name": "Alex Kumar",
+      "position": "Fellow Developer",
+      "rating": 4,
+      "comment": "Great collaboration on our open source project. Rishi writes clean, maintainable code and is always eager to learn new technologies.",
+      "date": "December 10, 2023",
+      "avatar": {
+        "color": "bg-yellow-500",
+        "initial": "A"
+      },
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": 7,
+      "name": "Jennifer Wong",
+      "position": "E-commerce Manager",
+      "rating": 5,
+      "comment": "Rishi developed a custom solution that increased our productivity by 40%. Excellent problem-solving skills and delivery.",
+      "date": "December 5, 2023",
+      "avatar": {
+        "color": "bg-red-500",
+        "initial": "J"
+      },
+      "verified": true,
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "Robert Miller",
+      "position": "Consultant",
+      "rating": 5,
+      "comment": "Professional, skilled, and easy to work with. Rishi exceeded our expectations on the desktop application project.",
+      "date": "November 30, 2023",
+      "avatar": {
+        "color": "bg-indigo-500",
+        "initial": "R"
+      },
+      "verified": true,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Amanda Foster",
+      "position": "Product Manager",
+      "rating": 5,
+      "comment": "Exceptional attention to detail and creative problem-solving. The automated reporting system Rishi built saved us hours of manual work.",
+      "date": "November 25, 2023",
+      "avatar": {
+        "color": "bg-teal-500",
+        "initial": "A"
+      },
+      "verified": true,
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "James Wilson",
+      "position": "IT Director",
+      "rating": 4,
+      "comment": "Solid technical skills and great communication. Delivered the desktop application on time with all requested features.",
+      "date": "November 20, 2023",
+      "avatar": {
+        "color": "bg-orange-500",
+        "initial": "J"
+      },
+      "verified": true,
+      "featured": false
+    }
+  ],
+  
+  "feedback": {
+    "enabled": true,
+    "averageRating": 4.8,
+    "totalReviews": 10,
+    "ratingBreakdown": {
+      "5": 8,
+      "4": 2,
+      "3": 0,
+      "2": 0,
+      "1": 0
+    },
+    "settings": {
+      "allowAnonymous": false,
+      "requireModeration": true,
+      "maxCommentLength": 500,
+      "showDate": true,
+      "showVerifiedBadge": true
+    },
+    "displayOptions": {
+      "itemsPerRow": 3,
+      "maxVisibleRows": 2,
+      "showMoreButton": true,
+      "animationDelay": 200
+    }
+  },
+  
+  "contact": {
+    "email": "rishikumarsharma434@gmail.com",
+    "phone": "+91 9685289326",
+    "location": "Jabalpur, Madhya Pradesh, India",
+    "social": {
+      "github": "https://github.com/yourusername",
+      "linkedin": "https://www.linkedin.com/in/rishi-sharma-25o2",
+      "twitter": "#",
+      "instagram": "#"
+    },
+    "availability": {
+      "status": "Available",
+      "message": "I'm always open to discussing new opportunities, interesting projects, and creative ideas. Let's connect and see what we can build together!",
+      "responseTime": "Usually responds within 24 hours",
+      "workingHours": "Mon-Fri: 9 AM - 8 PM IST",
+      "timeZone": "IST (UTC +5:30)"
+    },
+    "contactForm": {
+      "enabled": true,
+      "subjects": {
+        "web-development": "Web Development Project Inquiry",
+        "python-development": "Python Development Project Inquiry", 
+        "desktop-app": "Desktop Application Project Inquiry",
+        "consultation": "Consultation Request"
+      },
+      "autoResponder": {
+        "enabled": true,
+        "message": "Thank you for reaching out! I've received your message and will get back to you within 24 hours."
+      }
+    },
+    "whatsapp": {
+      "enabled": true,
+      "number": "919685289326",
+      "quickMessages": {
+        "project": "Hi Rishi, I found your portfolio and would like to discuss a project",
+        "consultation": "Hi Rishi, I'd like to schedule a consultation call",
+        "collaboration": "Hi Rishi, I'm interested in collaborating on a project"
+      }
+    }
+  },
+  
+  "resume": {
+    "file": "assets/resume.pdf",
+    "downloadName": "Rishi_Sharma_Resume.pdf",
+    "lastUpdated": "2024-01-15"
+  },
+  
+  "experience": [
+    {
+      "title": "Freelance Developer",
+      "company": "Self-Employed",
+      "period": "2023 - Present",
+      "description": "Working on various Python and web development projects for local businesses and personal learning.",
+      "type": "freelance"
+    }
+  ],
+  
+  "achievements": [
+    {
+      "title": "Dean's List",
+      "organization": "Gyan Ganga Institute",
+      "year": "2023",
+      "description": "Recognized for academic excellence"
+    },
+    {
+      "title": "Programming Competition",
+      "organization": "College Tech Fest",
+      "year": "2023",
+      "description": "2nd place in college programming competition"
+    }
+  ],
+  
+  "certifications": [
+    {
+      "name": "Python Programming",
+      "issuer": "Online Platform",
+      "year": "2023",
+      "credentialId": "#",
+      "url": "#"
+    }
+  ],
+  
+  "interests": [
+    "Software Development",
+    "Problem Solving",
+    "Technology Trends",
+    "Open Source",
+    "Learning New Technologies"
+  ],
+  
+  "seo": {
+    "title": "Rishi Sharma - Python & C/C++ Developer Portfolio",
+    "description": "Portfolio of Rishi Sharma, a passionate Python and C/C++ developer from Jabalpur. Explore my projects, skills, and experience in software development.",
+    "keywords": ["Rishi Sharma", "Python Developer", "C++ Developer", "Web Developer", "Jabalpur", "Portfolio", "Software Engineer"],
+    "author": "Rishi Sharma",
+    "url": "https://yourdomain.com"
+  },
+  
+  "settings": {
+    "theme": {
+      "default": "dark",
+      "allowToggle": true
+    },
+    "animations": {
+      "enabled": true,
+      "speed": "normal"
+    },
+    "features": {
+      "resumeModal": true,
+      "contactForm": true,
+      "socialLinks": true,
+      "projectFilters": true,
+      "feedbackSystem": true,
+      "testimonials": true
+    }
+  },
+  
+  "analytics": {
+    "googleAnalyticsId": "",
+    "hotjarId": "",
+    "facebookPixelId": ""
+  },
+  
+  "version": "2.0.0",
+  "lastUpdated": "2024-01-15T10:30:00Z"
+}
